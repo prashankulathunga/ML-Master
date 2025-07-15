@@ -4,3 +4,4 @@
     - Exercise (LR)
     - Linear Regression Multiple Variables
     - Exercise (LR-MV)
+    - Gradient Descent and Cost Function
