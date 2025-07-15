@@ -19,7 +19,7 @@ learning_rate = 0.001
 # create descent function
 # need to calculate m and c new
 
-def descend (x, y, N, m_curr, c_curr, learning_rate):
+def descend (x, y, N, m_curr, c_curr, learning_rate): 
     # need to calculate cost function
     y_pred = m_curr * x + c_curr
     cost = np.mean((y - y_pred) ** 2)
