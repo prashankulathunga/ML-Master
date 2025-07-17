@@ -6,3 +6,4 @@
     - Exercise (LR-MV)
     - Gradient Descent and Cost Function
     - Exercise (Gradient Descent and Cost Function)
+    - Save model using pickle and joblib
